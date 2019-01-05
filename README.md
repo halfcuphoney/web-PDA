@@ -1,6 +1,10 @@
 # web-PDA
 #this is a web personal-digital-account page where you can record your daiy life.
 #it include diary and travel and picture three model of recording
+
+
+
+
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html" charset="UTF-8">
